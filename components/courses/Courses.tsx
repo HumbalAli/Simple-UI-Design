@@ -28,7 +28,7 @@ const Courses = () => {
                 decoding="async"
                 data-nimg="1"
                 className="w-full"
-                src="/Placeholder/image.svg"
+                src="/Placeholder/Image.svg"
               />
               <div className="flex flex-col justify-center items-center px-4 pb-6 gap-6">
                 <div className="flex flex-col justify-center items-start gap-2">
@@ -74,7 +74,7 @@ const Courses = () => {
                 decoding="async"
                 data-nimg="1"
                 className="w-full"
-                src="/Placeholder/image2.svg"
+                src="/Placeholder/Image2.svg"
               />
               <div className="flex flex-col justify-center items-center px-4 pb-6 gap-6">
                 <div className="flex flex-col justify-center items-start gap-2">
@@ -120,7 +120,7 @@ const Courses = () => {
                 decoding="async"
                 data-nimg="1"
                 className="w-full"
-                src="/Placeholder/image3.svg"
+                src="/Placeholder/Image3.svg"
               />
               <div className="flex flex-col justify-center items-center px-4 pb-6 gap-6">
                 <div className="flex flex-col justify-center items-start gap-2">
@@ -168,7 +168,7 @@ const Courses = () => {
                 decoding="async"
                 data-nimg="1"
                 className="w-full"
-                src="/Placeholder/image4.svg"
+                src="/Placeholder/Image4.svg"
               />
               <div className="flex flex-col justify-center items-center px-4 pb-6 gap-6">
                 <div className="flex flex-col justify-center items-start gap-2">
@@ -214,7 +214,7 @@ const Courses = () => {
                 decoding="async"
                 data-nimg="1"
                 className="w-full"
-                src="/Placeholder/image5.svg"
+                src="/Placeholder/Image5.svg"
               />
               <div className="flex flex-col justify-center items-center px-4 pb-6 gap-6">
                 <div className="flex flex-col justify-center items-start gap-2">
@@ -260,7 +260,7 @@ const Courses = () => {
                 decoding="async"
                 data-nimg="1"
                 className="w-full"
-                src="/Placeholder/image6.svg"
+                src="/Placeholder/Image6.svg"
               />
               <div className="flex flex-col justify-center items-center px-4 pb-6 gap-6">
                 <div className="flex flex-col justify-center items-start gap-2">

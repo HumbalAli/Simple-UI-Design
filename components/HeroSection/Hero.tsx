@@ -15,7 +15,7 @@ const Hero = () => {
                 <button className="py-3 px-6 border border-black rounded-[5px]">Explore Courses</button>
             </div>
         </div>
-        <img alt="hero" loading="lazy" width="1200px" height="1800px" decoding="async" data-nimg="1" className="object-cover object-top h-[800px] xl:h-auto w-screen xl:w-[50vw]" src="/images/image.svg"/>
+        <img alt="hero" loading="lazy" width="1200px" height="1800px" decoding="async" data-nimg="1" className="object-cover object-top h-[800px] xl:h-auto w-screen xl:w-[50vw]" src="/images/Image.svg"/>
     </div>
 
   )

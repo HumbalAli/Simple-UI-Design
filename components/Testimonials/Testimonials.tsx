@@ -21,7 +21,7 @@ const Testimonials = () => {
                 height="19"
                 decoding="async"
                 data-nimg="1"
-                src="/Placeholder/stars.svg"
+                src="/Placeholder/Stars.svg"
               />
               <div className="flex flex-col justify-center items-start w-full gap-6">
                 <p className="text-lg">
@@ -37,7 +37,7 @@ const Testimonials = () => {
                     height="56"
                     decoding="async"
                     data-nimg="1"
-                    src="/Placeholder2/image3.svg"
+                    src="/Placeholder2/Image3.svg"
                   />
                   <div className="flex flex-col justify-center items-start">
                     <h3 className="font-semibold">James nuduku</h3>
@@ -54,7 +54,7 @@ const Testimonials = () => {
                 height="19"
                 decoding="async"
                 data-nimg="1"
-                src="/Placeholder/stars.svg"
+                src="/Placeholder/Stars.svg"
               />
               <div className="flex flex-col justify-center items-start w-full gap-6">
                 <p className="text-lg">
@@ -70,7 +70,7 @@ const Testimonials = () => {
                     height="56"
                     decoding="async"
                     data-nimg="1"
-                    src="/Placeholder2/image.svg"
+                    src="/Placeholder2/Image.svg"
                   />
                   <div className="flex flex-col justify-center items-start">
                     <h3 className="font-semibold">Erick Kipkemboi</h3>
@@ -87,7 +87,7 @@ const Testimonials = () => {
                 height="19"
                 decoding="async"
                 data-nimg="1"
-                src="/Placeholder/stars.svg"
+                src="/Placeholder/Stars.svg"
               />
               <div className="flex flex-col justify-center items-start w-full gap-6">
                 <p className="text-lg">
@@ -103,7 +103,7 @@ const Testimonials = () => {
                     height="56"
                     decoding="async"
                     data-nimg="1"
-                    src="/Placeholder2/image6.svg"
+                    src="/Placeholder2/Image6.svg"
 />
                   <div className="flex flex-col justify-center items-start">
                     <h3 className="font-semibold">Stephen Kerubo</h3>
