@@ -4,7 +4,7 @@ const Page2 = () => {
   return (
     <div className="xl:bg-[#f7f7f7] flex flex-col xl:flex-row justify-center items-start py-12 xl:py-20 px-6 xl:px-16 gap-6 xl:gap-16">
       <p className="font-bold text-lg xl:text-2xl">
-        Trusted by the world's best companies [social proof to build
+        Trusted by the world&#39;s best companies [social proof to build
         credibility]
       </p>
       <div className="w-[1280px] flex justify-start items-center py-4 gap-4 overflow-clip">
